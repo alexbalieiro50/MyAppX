@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1057358033477",
+    "project_id": "myappx-71938",
+    "storage_bucket": "myappx-71938.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057358033477:android:ad958e8ddf90303860a92c",
+        "android_client_info": {
+          "package_name": "br.com.alex.myappx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo4M-da8BxECfGNMA9r0JuFLDk3iP9fK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
