@@ -5,6 +5,7 @@
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:fillViewport="true"
+    android:background="@color/color_default"
     tools:context=".ui.auth.LoginFragment">
   <LinearLayout
       android:layout_width="match_parent"
@@ -23,7 +24,9 @@
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
           android:inputType="textEmailAddress"
+          android:textColor="@color/black"
           android:hint="email@email.com"
+          android:textColorHint="#D8D8D8"
           android:textSize="14sp"
           android:layout_marginTop="8dp"
           android:background="@drawable/bg_edit"
@@ -41,6 +44,8 @@
           android:layout_height="wrap_content"
           android:background="@drawable/bg_edit"
           android:inputType="textPassword"
+          android:textColorHint="#D8D8D8"
+          android:textColor="@color/black"
           android:hint="******"
           android:textSize="14sp"
           android:layout_marginTop="8dp"
